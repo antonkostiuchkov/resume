@@ -1,7 +1,7 @@
 
 # General Site Settings
 
-title: Anton Bobakov
+title: Anton Kostiuchkov
 email: antonkostiuchkov@gmail.com
 
 # Address
@@ -34,14 +34,6 @@ personal_statement:
 #-------------------------------
 # Education
 education:
-- {
-  name: Lazarski University,
-  city: 'Warsaw',
-  country: 'Poland',
-  date: '10/2010 - present',
-  degree: 'Master of Arts in International Relations',
-  subjects: 'National & International Security; International Political Economy; Human Rights & Environmental Protection; Globalization & Regionalization;'
-}
 - {
   name: Kyiv National Economic University,
   city: 'Kiev',
